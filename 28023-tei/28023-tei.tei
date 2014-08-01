@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2 lang="en">
+<teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>Pictorial Photography in America 1921</title>
+ <author>Pictorial Photographers of America</author>
+ </titleStmt>
+ <editionStmt>
+  <edition n="1">Edition 1</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>Project Gutenberg</publisher>
+ <date value="2009-02-08">February 8, 2009</date>
+ <idno type="etext-no">28023</idno>
+ <availability>
+ <p>This eBook is for the use of anyone anywhere at no cost and
+ with almost no restrictions whatsoever. You may copy it, give it
+ away or re-use it under the terms of the Project Gutenberg
+ License online at www.gutenberg.org/license</p>
+ </availability>
+ </publicationStmt>
+
+ <sourceDesc>
+  <bibl>
+  <title>Pictorial Photography in America 1921</title>
+  <author>Pictorial Photographers of America</author>
+  <imprint>
+   <pubPlace>New York</pubPlace>
+   <publisher>Pictorial Photographers of America</publisher>
+   <date>1921</date>
+  </imprint>
+  </bibl>
+ </sourceDesc>
+ </fileDesc>
+
+ <encodingDesc>
+ <classDecl>
+  <taxonomy id="lc">
+  <bibl>
+   <title>Library of Congress Classification</title>
+  </bibl>
+  </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+  <language id="en"></language>
+  <language id="la"></language>
+ </langUsage>
+<textClass>
+  <classCode scheme="lc">PR</classCode>
+<keywords>
+<list>
+<item>Photography, Artistic</item>
+</list>
+</keywords>
+</textClass>
+ 
+ </profileDesc>
+ <revisionDesc>
+ <change>
+  <date value="2009-02-08">February 8, 2009</date>
+  <respStmt>
+  <name>Martin Schub<lb /></name>
+  </respStmt>
+  <item>Project Gutenberg Edition</item>
+ </change>
+ </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    figure           { text-align: center; page-float: 'p' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w80             { }
+    .w70             { }
+    .w50             { }
+    .w20             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w80             { width: 80% }
+      .w70             { width: 70% }
+      .w60             { width: 70% }
+      .w50             { width: 50% }
+      .w20             { width: 20% }
+      .w05             { width: 5% }
+    }
+  </pgStyleSheet>
+</pgExtensions>
+
+<text lang="en">
+
+<front>
+
+<div>
+<divGen type="pgheader" />
+</div>
+<div>
+  <divGen type="encodingDesc" />
+</div>
+
+
+<titlePage rend="page-break-before: right">
+ <docTitle><titlePart type="main" rend="font-size: x-large">Pictorial Photography in America 1921</titlePart><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb />
+</docTitle>
+ <byline><docAuthor>Pictorial Photographers of America</docAuthor><lb /><lb /></byline>
+
+<docImprint>New York<lb />
+<lb /></docImprint>
+<docDate>1921</docDate>
+</titlePage>
+
+<div rend="page-break-before: right">
+<lg>
+<l><emph>Editorial Board</emph></l>
+<l><hi rend="font-variant: small-caps">Clarence H. White</hi></l>
+<l><hi rend="font-variant: small-caps">Henry Hoyt Moore</hi></l>
+<l><hi rend="font-variant: small-caps">Dwight A. Davis</hi></l>
+<l><hi rend="font-variant: small-caps">John Paul Edwards</hi></l>
+</lg>
+<lg>
+<l><emph>Committee on Publication</emph></l>
+<l><hi rend="font-variant: small-caps">Henry Hoyt Moore</hi></l>
+<l><hi rend="font-variant: small-caps">Walter L. Ehrich</hi></l>
+<l><hi rend="font-variant: small-caps">Ray Greenleaf</hi></l>
+<l><hi rend="font-variant: small-caps">John A. Tennant</hi></l>
+</lg>
+</div>
+
+<div rend="page-break-before: right">
+<head>Illustrations</head>
+<divGen type="fig" />
+</div>
+
+<div rend="page-break-before: right">
+<index index="pdf" />
+<head>Contents</head>
+<divGen type="toc" />
+</div>
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>PAINTING WITH LIGHT</head>
+<pb n="5" />
+<byline>
+<emph>By </emph><hi rend="font-variant: small-caps">Arthur Wesley Dow</hi><lb /><emph>Professor of Fine Arts in Teachers College, Columbia University</emph>
+</byline>
+<p>
+The painter need not always paint with brushes, he can paint with light itself.  Modern photography has brought light under control and made it as truly art-material as pigment or clay.  The old etchers turned chemical action to the service of Art.  The modern photographer does the same, using the mysterious forces of nature as agents in making his thoughts visible.  It's a long story of effort and experiment since someone observed that an inverted landscape on the wall of a darkened room was painted by light coming through a hole in a shutter.  The shutter and the dark room are still acting, but now we can hold the fleeting vision.  While we rejoice in the triumph of Science it is the triumph of Art that concerns us most.  The photographer has demonstrated that his work need not be mechanical imitation.  He can control the quality of his lines, the spacing of his masses, the depth of his tones and the harmony of his gradations.  He can eliminate detail, keeping only the significant. More than this, he can reveal the secrets of personality.  What is this but Art?
+</p>
+<p>
+Just here we must remember that neither light, nor chemicals, nor camera, nor nature tell us anything of Art&mdash;that Art is not the child of Knowledge or Science or Nature, but is born of trained Appreciation in the soul of man.  He that would paint with light must be first of all a Designer.  His chief concern will be to find and use his own powers of choice and appreciation. He will need the studio more than the laboratory.
+</p>
+<p>
+<q>What is Design?</q> Ask Korin, Hiroshige, Giotto, Rembrandt, Titian; ask the master-photographers who can build harmonies of line and space and texture.  But the secret is not revealed by asking, only by <emph rend="font-variant: small-caps">Doing</emph>.
+</p>
+<pb n="6" />
+</div>
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>THE YEAR'S PROGRESS</head>
+
+<byline>
+<emph>By </emph><hi rend="font-variant: small-caps">Clarence H. White</hi>
+</byline>
+<head type="sub"><emph>An Interview with Henry Hoyt Moore</emph></head>
+<p>
+<q>What notable events, Mr. White, have occurred in the photographic world during the year 1920?</q>
+</p>
+<p>
+<q>Perhaps no outstanding event, either on the art side or the scientific aspect of photography, has marked the year.  A steady progress, however, in the direction of a better appreciation of photographic art is apparent.  This is seen, for one thing, in the numerous exhibitions that have been held.   Confining our attention to American exhibitions, I would remark that instead of, as in former years, having one big exhibition in Baltimore or Philadelphia or some other city, there are now active centers all over the country&mdash;there is a regularly established international salon in Los Angeles, and the well-known Pittsburgh Salon, and regularly established exhibitions in Portland and Toronto.  There are groups of enthusiastic workers in all these centers.  There are also exhibitions of photographic art regularly held in many of the museums of the country.</q>
+</p>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">American Photographers Set the Pace</hi></head>
+<p>
+<q>I once heard a well-known photographic worker say, <q>If you have any doubt as to the pictorial quality of a photograph, send it to the London Salon and their judgment will decide for you.</q>  Is this still true?</q>
+</p>
+<p>
+<q rend="post: none">I still feel that the American photographers set the pace, and in this connection I would like to read you this letter from the Secretary of the Royal Photographic Society of Great Britain as indicating the appreciation in England of American pictorial work:</q>
+</p>
+
+<div rend="display">
+<opener>
+<dateline>
+35 Russell Square, London, September, 1920.
+</dateline>
+</opener>
+<p>
+I am happy to say that we have received from the United States and Canada a collection of pictorial photographs of such outstanding interest that the task of discrimination became one of great difficulty.
+</p>
+<p>
+Those selected by the judges have been placed in the exhibition, but the Council of the Society feel that it would be most unfortunate if the collection generally could not be viewed by the English public, and it is proposed that the bulk of the American and Canadian pictures, including those shown at the Annual Exhibition, should form one of our house exhibitions and be open to the public during the last part of January and the beginning of February, 1921.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">J. McIntosh,</hi> <emph>Secretary</emph>
+</signed>
+</closer>
+</div>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">The Soft Focus Lens</hi></head>
+<p>
+<q>What changes in the past twenty years, Mr. White, would you say have been most noticeable in photographic work?</q>
+</p>
+<p>
+<q>Well, I would say the most noticeable is what we call the use of the soft focus lens.  Secondly, I would say another noticeable change is the better general quality
+<pb n="7" />
+of photographic work.  I feel that the photographers of today have a better idea of picture construction.</q>
+</p>
+<p>
+<q>Would you say that one of the changes in the past twenty years is in the spreading of a knowledge of pictorial photography throughout the country?</q>
+</p>
+<p>
+<q>Very definitely so.  The interest in pictorial photography twenty years ago was confined to a small group.  There are now groups in various centers as large as the national group of the early days.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">No One Lens Is Sufficient</hi></head>
+<p>
+<q>Getting down to a practical question for a moment, Mr. White, do you recommend a soft focus lens for small cameras, the work to be enlarged with a sharp lens, or do you recommend the reverse process?</q>
+</p>
+<p>
+<q>I still keep to my original statement that I made two or three years ago that I do not believe that any one lens will serve all purposes.  I sometimes feel that an anastigmat lens is best and sometimes that a soft focus lens is best for some particular work, and sometimes I feel that if I could get only one I would prefer an anastigmat to a soft focus.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Softness Desirable, Not Fuzziness</hi></head>
+<p>
+<q>Is there a tendency, as shown in the work seen in the magazines, the exhibitions, and the photographs selected for the present <title>Annual</title>, to get rid of fuzziness and substitute a rational degree of softness and atmospheric effect?</q>
+</p>
+<p>
+<q>I would say that the reproductions that we see in the magazines do not in all cases represent lens work but, I fear, bad printing sometimes.  There is often a good definite quality in soft focus lens work that looks very definite indeed, even more definite than a sharp lens will give.  Fuzziness is bad, but not softness.  The soft focus lens seems to be more popular than ever and it apparently has come to stay.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Professional Photography Influenced by that of the Pictorialist</hi></head>
+<p>
+<q>Has the professional photography of today been influenced, in your judgment, by the work of the pictorialists?</q>
+</p>
+<p>
+<q>Yes, very decidedly, and the professionals confess it.  The best professional photographers freely admit that they have drawn much inspiration from the pictorial workers' ideas.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">The Popular Mediums</hi></head>
+<p>
+<q>What medium&mdash;gum, multiple gum, bromoil, platinum, bromide, chloride&mdash;is most popular today?</q>
+</p>
+<p>
+<q>Bromide and chloride are the most popular.  That this is so is probably because they are easier to use; but there are very earnest workers&mdash;some of the best&mdash;who insist on using the processes which give a greater range and greater possibilities of 
+<pb n="8" />
+quality, such as bromoil, gum, and gum platinum.  I would say that these processes are more popular than they used to be.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Color Photography</hi></head>
+<p>
+<q>Has color photography made any advance during the year?  Are autochromes still popular?  Has any progress been made in the direction of producing color photography on paper?</q>
+</p>
+<p>
+<q>I do not know of any special progress in this branch of the art.  Color photography on paper has been worked out successfully by Mr. Ives, and I think the difficulty in obtaining materials has temporarily affected the popularity of color photography in this country.</q>
+</p>
+<p>
+<q>Is the color process used to any extent for portraiture in the United States?</q>
+</p>
+<p>
+<q>I do not think it is used to any great extent, but I believe that it has great possibilities and that it can be used if workers will take the necessary care and pains.  I think the difficulty of getting material recently has set things back along this line.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">The <q>Secret</q> Is the Artist</hi></head>
+<p>
+<q>Have the so-called pictorial photographers any <q>secrets?</q>  People often ask, <q>How are these effects produced?</q>  What is the best method of producing soft, atmospheric pictures?  Can a skilled worker take an ordinary hard negative and, by suitable manipulation or the use of soft paper, produce an atmospheric print?  Is the medium the secret?  Will one paper or developer produce soot and whitewash effects and another a picture?  Are soft effects generally produced by manipulation in developing negatives or prints?</q>
+</p>
+<p>
+<q>I believe the quality of a picture is not due to the medium by which it was made.  It depends entirely on the man who made it.  I think one man can make a good print on soft paper and another a good print on hard paper.  I do not think the medium makes the picture.  I think the medium produces the picture to some extent, but it does not make the picture.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Hand Work vs. Straight Prints</hi></head>
+<p>
+<q>What are the limits of hand work that are legitimate in photography?  I don't like to use the word faking, but most people would so describe it.  I mean, for instance, putting in skies, blocking out obtrusive backgrounds, sunning down high lights, retouching negatives, printing through prepared masks that entirely alter the negative, and pencil or air brush work on prints?</q>
+</p>
+<p>
+<q>I do not have any objection to anybody using any methods that he pleases providing that the result is convincing; and I believe that practically every one of these means has been used successfully, in making pictures.  On the other hand, some of the best and probably more good pictures have been produced by not using any of them&mdash;that is, by making the picture straight.</q>
+</p>
+</div>
+<pb n="9" />
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Commercial Possibilities for Pictorial Work</hi></head>
+<p>
+<q>Are there commercial possibilities at present for pictorial photographers?  Has the public shown an increasing desire to buy soft focus pictures?  Is there a demand on the part of magazines and newspapers for pictorial work?</q>
+</p>
+<p>
+<q>There is a very definite demand on the part of both magazines and newspapers for soft focus pictures.  In fact, sometimes the art editors, in their eagerness to get soft focus work, will buy a photograph because it is fuzzy, without regard to its quality.  But the outlook for the pictorial worker in its financial possibilities is steadily improving.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Airplane Photography</hi></head>
+<p>
+<q>Has any pictorial work been done in connection with airplane photography?  Is the apparatus for this sort of work too expensive for anything besides military or movie use?</q>
+</p>
+<p>
+<q>At present I do not know personally of any pictorial work being done in this direction, but I have seen reproductions in newspapers of pictures from airplanes that show most interesting results.  Airplane photographers as a rule do not as yet put into their work a marked pictorial quality.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Elaborate Apparatus Not Always Necessary</hi></head>
+<p>
+<q>Have any notable inventions marked the year?  Is the photostat coming into use and has it any value other than commercial?  Do you recommend one of the new high-priced enlarging cameras, which focus the lens automatically on any size of paper, as suitable for clubs to purchase?</q>
+</p>
+<p>
+<q>Well, I must confess that I have only heard of it, and the price seems to be such as to discourage almost all the pictorial workers that I know.  In my observation of the work that has been done by pictorialists, the very fact that in many instances they use makeshift apparatus has resulted in some of the most beautiful effects in their work.  Good apparatus is of course desirable, but there are happy accidents with the other sort.  It is the workman, not his tools, that counts.  Get the best tools if you can afford them, but remember that you can make just as bad pictures with an expensive outfit as you can with the cheapest.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">How Mr. White Judges a Photograph</hi></head>
+<p>
+<q>Many persons would like to know, Mr. White, what are the criteria used by advanced workers like yourself in judging a photograph.  Do you allow so many points for composition, for technique, for originality of conception, or for success in a difficult medium?  Or do you say, <q>That picture pleases me, and I vote for it,</q> without attempting to state in mathematical form the qualities of its success as a picture?</q>
+</p>
+<p>
+<q>I would say that the first thing a man should do in judging pictures is to answer the appeal of the picture.  I think a picture should have a message&mdash;that is, it should
+<pb n="10" />
+convey, not necessarily a story, but something of the feeling of the man who produced it.  This is really a difficult question to answer.  I would say, <q>That picture pleases me and I vote for it.</q>  That is to say, so many points for technique and so many points for pictorial quality would mean nothing to me.  I would insist that a picture have an appeal, and then that it have good construction, and it should have quality.  The printing medium, as I have said, doesn't make the picture, but the man who uses it.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Motion Pictures and the Soft Focus Lens</hi></head>
+<p>
+<q>Probably photography's greatest activity at present is in the motion picture field. Have soft focus lenses been used for producing screen plays and with what result?</q>
+</p>
+<p>
+<q>Soft focus lenses are being used in motion picture photography, but I am doubtful as to their success in the way they are being used at present&mdash;a somewhat haphazard way.  You are too conscious of the soft focus lens and of the anastigmatic lens.  That is, one part of the picture is made with a soft focus lens and one with an anastigmatic.  I believe that the soft focus lens can be used, and will be used, in such a way as to give beautiful results on the screen.</q>
+</p>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Is Photography to Remain a Black and White Art?</hi></head>
+<p>
+<q>What forecast, Mr.White, do you make of future developments in photography?  Is it to remain a black and white art, or are photographs in natural colors to supersede the familiar photograph of the present day in our exhibitions and in our homes?</q>
+</p>
+<p>
+<q>I think that the fundamental expression of photography is in black and white, and as we develop what I would call the definite photographic quality, black and white will maintain its present ascendency.</q>
+</p>
+<p>
+<q>But don't you expect the art to develop in different directions from what it is today and what it has been in the past?</q>
+</p>
+<p>
+<q>I think it will develop especially in a more marked sense of picture construction.</q>
+</p>
+</div>
+</div>
+<milestone unit="tb" rend="stars: 3" />
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>HOW WE MAKE OUR PHOTOGRAPHS</head>
+<head type="sub">
+<emph>Methods of Several Representative Workers in Pictorial Photography Are Given Below. Their Pictures May Be Found on the Pages Indicated</emph></head>
+
+<div>
+<head><hi rend="font-variant: small-caps; text-align: center">Dr. Chaffee Tells How He Makes Bromoils&mdash;With Reservations</hi></head>
+<p>
+<emph>See <ref target="weissthurm" rend="color: blue">Weissthurm</ref></emph></p>
+<p>
+Rothenburg o. Tauber, today a mediaeval town surrounded by its ancient walls and towers, possesses relics of yet earlier fortifications within the present ones. One of these relics is the so-called Weissthurm, still dominating the narrow streets that lead to it and the old houses that have attached themselves to its base.
+</p>
+<p>
+The print is a bromoil transfer upon English crayon paper from Wellington smooth ordinary (pre-war variety).  The negative was made with a Goerz Dagor lens in a Lancaster reflex upon a Seed Ortho L plate.  The further data which all careful workers are supposed to keep were not made and can there
+fore unfortunately not be furnished.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">A. D. Chaffee.</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<pb n="11" />
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Evaded the Statute, but Made a Picture</hi></head>
+<p>
+<emph>See <ref target="cables" rend="color: blue">Cables</ref></emph>
+</p>
+<p>
+<q>Cables</q> is the pictorial result of several months' study of the Brooklyn Bridge towers.  When I found the composition I wanted, the rest was easy.  Except for the police.  To a Bridge policeman anything on a tripod is a movie camera, and that means: <q>Some guy's gonna jump!  Where's he at?</q> I evaded, not the law, but the majesty thereof&mdash;and with an 8&times;10 view camera.
+</p>
+<p>
+The light was bad. (My lens would give an optical savant brain fever; I designed it myself.)  I used the rising front to the limit, and stopped down to F:11 to cover the plate.  Result, under-exposure, at one-sixtieth.  I developed first in Rodinal, 1:120; then finished in Rodinal 1:30.  Stanley plates can endure much cruelty.  The print for reproduction is made on matte Azo, soft, using strong M.-Q. developer.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Arthur D. Chapman.</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">A Few Beliefs of a Negative Tendency</hi></head>
+<p>
+<emph>See <ref target="buglecall" rend="color: blue">The Bugle Call</ref></emph>
+</p>
+<p>
+I believe that the data of camera, plate, lens, exposure, paper, etc., have no essential value as aids in pictorial photography.
+</p>
+<p>
+That pictures are made with the camera by feeling alone.  The selection of the subject, the lighting, the composition, the exposure and development, and the after-treatment and selection of the printing medium, are all a matter of feeling.
+</p>
+<p>
+That the rules of technique once learned are all practically violated in the making of the plate and in the production of a print, according as the artist feels his subject and as he wishes to reproduce that feeling.
+</p>
+<p>
+In that way only can the individuality be attained which is the keynote of picture-making.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Dwight A. Davis.</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Photographing on a Rainy Day</hi></head>
+<p>
+<emph>See <ref target="maidsomist" rend="color: blue">Maids o' the Mist</ref></emph>
+</p>
+<p>
+This picture was made with a vest pocket kodak fitted with a Goerz Dagor F 6.3.  It was a rainy day and the camera user made his exposure under an umbrella.  The film was enlarged to 6&frac12;&times;8&frac12; on
+Illingworth De Luxe paper, cream-colored stock, imported from England&mdash;took about three months to get it.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Mr. and Mrs. J. D. Drew.</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">How a <q>Rembrandt</q> Was Made
+</hi></head>
+<p>
+<emph>See <ref target="myfather" rend="color: blue">My Father</ref></emph>
+</p>
+<p>
+The original negative of my father was made with 5&times;7 Graphic camera and a Standard Orthonon plate, using a Busch Omnar F 4.5 of ten-inch focal length, at full opening.  A hazy day in the country, the ground covered with snow, a south window shaded by a veranda and my father seated in front of the window about four or five feet from it, explain the lighting.  No reflector was used.  Camera was moved to get the desired light.  Knowing him, I caught him in a favorite chair and in a characteristic position.  To subdue the detail of the door and wall behind, but to suggest the depth and atmosphere of the room and to give all the lines and modeling of the face, an enlargement was made on an 11&times;14 sheet of P. M. C. No. 8 Bromide paper, and this was carefully inked, using the copper sulphate, salt, bichromate bleach.  The aim throughout was to get a print which should be a sympathetic record of a good strong face and one which should tell of the cheerful evening of a busy life.
+</p>
+<p>
+All my portraits are made in ordinary living-rooms or school-rooms. I rarely use any reflector, merely shifting my camera or my subject, preferably the former.  For younger subjects and especially children I prefer a lighter key.  Sometimes I use a soft focus lens for a very moderate degree of diffusion.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Vernon E. Duroe.</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">He Thought She Was Crazy
+</hi></head>
+<p>
+<emph>See <ref target="arches" rend="color: blue">Arches of the Municipal Building</ref></emph>
+</p>
+<p>
+<q>Arches of the Municipal Building of New York</q> was taken on a Standard Orthonon plate, about 9:30 A.M., with a twenty minute exposure.  Instead of a lens, the photographer used a piece of black
+<pb n="12" />
+paper pierced with a pin.  A wise passer-by who knew a thing or two about photography noticed the absence of the lens.  <q>How do you think you are going to take a picture without a lens?</q> he asked.
+<q>With a pin-hole,</q> she replied.  He watched her with pitying interest.  <q>She <emph>thinks</emph> she is taking a picture,</q> he said to another expert, tapping his head significantly.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Antoinette B. Hervey.</hi>
+</signed>
+</closer>
+</div>
+
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">The Last of the Square Riggers
+</hi></head>
+<p>
+<emph>See <ref target="squarerig" rend="color: blue">The Last of the Square Riggers</ref></emph>
+</p>
+<p>
+How to suggest something of the stately vigor and the triumph over the mysteries of the seas of the old whaler, <q>Greyhound,</q> home from her last voyage after seventy-four years of service&mdash;her yards squared and bravely dressed for the inspection which will condemn her to be broken up&mdash;was the problem of the photographer.
+</p>
+<p>
+The time was near noonday in early August, the air clear and the sun bright.  A Graflex camera was used with Seed L Ortho plates and a three-times screen, and one-fortieth of a second exposure sufficed at F 8.  The plate was developed with Kalogen in tank rather softly and a contact positive made of the negative.  This positive was then used to make an 11&times;14 negative by enlargement.  P. M. C. No. 8 paper, buff stock, was selected, and in printing a piece of thin, even-grained paper was placed between the negative and the print paper to gain a certain softness of quality in the finished print.   Finally when dry the print was waxed and rubbed down several times to give extra life and richness, particularly in the shadows.  The camera carried a nine-inch Struss lens.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">G. B. Hollister.</hi>
+</signed>
+</closer>
+</div>
+
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">As to Certain Soft Focus Lenses
+</hi></head>
+<p>
+<emph>See <ref target="stilllife" rend="color: blue">Still Life</ref></emph>
+</p>
+<p>
+Answering your question, Do you like to work with the Graflex with a Smith doublet, visual quality lens?  I really believe it would be difficult to find a more satisfactory outfit.  It is a companion always ready and willing to do everything that either comes your way or you go after.  Working at F 4.5, the lens gives you the opportunity of getting the broadest effects in landscapes or the softest in portraits.  As a rule these are not pleasing to most people when enlarged.  I therefore usually work with the lens at F 6 or F 8, which gives a delightful image with distinct contours and a definite softness to the outlines, making beautiful enlargements which are sharp enough for bromoil or gum.  And the Graflex is not so very heavy when a film pack or cut films are used.  The image is always right side up and you see it in the full size.  No one can question the efficiency of the shutter, and with practice you can hold the camera for a one-fifth second exposure.  The only drawback to the outfit is in seeing things from the waist level, which makes the foreground difficult.  Thinking of your picture as a pattern, however, it is better to be looking down from an elevation and with a nine-inch lens on a 4&times;5 box the immediate foreground is negligible.  Everything considered, I believe there is no more satisfactory outfit than this combination.
+</p>
+<p>
+<q>Still Life</q> was the result of a problem of construction in pastel with three colors, the vase green, the small box red, with the white string.  It was later photographed as a study of colored objects, using a Standard Orthonon plate with a Cramer Isos III filter and a Struss lens at F 8.  The lens was of fifteen-inch focal length on a 6&frac12;&times;8&frac12; plate.  The exposure was made in an ordinarily lighted room, but not strong light, and I think about four minutes was given. The print is on ivory black platinum.  There was no retouching of any kind, and I think the print shows the value of using a color filter with an orthochromatic plate where colors are contrasted in the subject.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">B. S. Horne.</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Mr. Latimer Expresses His Views Somewhat at Length
+</hi></head>
+<p>
+<emph>See <ref target="italian" rend="color: blue">In an Italian Village</ref></emph>
+</p>
+<p>
+In the olden days I used to lug around big cameras. I even went so far as to have 14&times;17 <emph>hand camera</emph>, made to take to sea with me to make large direct marines.  In the days of the old Boston Camera Club it was called <q>the dog-house.</q>  But I soon found out that it was <q>too much pork for a shilling.</q>  Now I use small cameras and enlarge.  My small cameras are mostly of the stereo-panoram variety, and
+<pb n="13" />
+a pocket Ansco, all fitted with fast lenses and with direct vision finders, which I consider much more practicable than the old style finders.  For instance, I was on a steamer a few months ago, waiting to leave the dock, and a lot of gulls were flying around.  I said to myself, <q>Here's a good opportunity to test my shutter and finder, and see if I can stop them,</q> so I used up one roll of film on them.  I made direct hits and stops on every one.
+</p>
+<p>
+My picture <q>In an Italian Village</q> was made with my Voigtlander 45&times;107 mm. stereo camera.  I was on an auto trip in Italy; had nearly used up my three months allowed by the Italian Government, and had three days to get out or lose my deposit for duty on my car.  I was on my way to the French frontier, and ran through this Italian village&mdash;Todi I think the name was.  When I saw this picturesque old wall with some of the villagers, I said, <q>I've got to get this whether I lose my deposit or not.</q>  So I stopped the car, got out my stereo, stood up in the car, leaned on the windshield, and shot before they woke up to what I was doing.  Then what happened?  The whole village seemed to want to get into the plate, and I had a mob instead of a picture.  I made several more shots, but the first one was the best.  In nine cases out of ten in like conditions I find the first shot the best.  Shoot quick and don't give 'em time to pose.  I suppose if I had trained movie models, though, it might be different.  I've tried studio work, but I prefer the small camera and the quick snapshot.  Luck counts, I admit, but when it is good, the snapshot seems to me more spontaneous than anything I can do in the studio.
+</p>
+<p>
+My usual method of enlarging from small camera shots is this.  I enlarge a transparency (positive) up to 6&frac12;&times;8&frac12; or 8&times;10.  <q>In an Italian Village</q> was an 8&times;10 positive, sharp lens.  Then, either with a soft focus or a sharp focus lens, I enlarge to whatever size I want and whatever effect I'm after.  The advantage of enlarging the positive is that you can do any faking you want to better advantage, and when your enlarged negative is done you can print in any medium you wish, so I always make enlarged negatives.  I don't think I've made a bromide enlargement in twenty years.  <q>In an Italian Village</q> was enlarged from a part of a 45&times;107 mm. stereo, a little larger than my thumb-nail.  The enlarged negative is 11&times;14.  It was printed in multiple gum, four printings, pigment 50-50 lampblack and indigo.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">H. A. Latimer.
+</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Night Pictures in the Streets
+</hi></head>
+<p>
+<emph>See <ref target="crowsnest" rend="color: blue">Crow's Nest Restaurant,</ref><ref target="archjewls" rend="color: blue"> also The Arch of Jewels, New York City&mdash;Mr. Alcock's picture was made under similar conditions.</ref></emph>
+</p>
+<p>
+Picturing New York with a camera after dark is perhaps one of the most interesting phases of pictorial photography.  After spending several evenings prowling about for subjects that will lend themselves for night pictures you start out one evening to transfer these mental images to the plate.  A little
+patience, endurance, and a great deal of enthusiasm will do wonders.  It is not the easiest thing in the world to start out with an 8&times;10 view camera, a good substantial tripod, and several plate-holders.  A
+strong tripod is absolutely necessary on account of winds, jars, vibrations, etc.  To avoid halation use portrait film, take the view where there are no glaring lights, and develop with Azol.  Judge your time according to the amount of light (two to ten minutes).  Capping the lens each time a lighted moving vehicle comes along helps the picture.  For night pictures probably the best medium is gum palladium, because it lends itself to the mellow evening lights.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Sophie L. Lauffer.
+</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">How to <q>Work Up</q> a Negative
+</hi></head>
+<p>
+<emph>See <ref target="canal" rend="color: blue">Along the Canal</ref></emph>
+</p>
+<p>
+<q>Along the Canal</q> was taken about mid-day in July in bright sunlight, Graflex 4&times;5, Cooke lens working at one-twentieth of a second, F 11, on Seed 26x plate, Pyro (Kodak powders) developer.  In working up, first make Solio print and enlarge by photographing up to 6&times;8.  On this negative sky and some trees were painted out, using glass side to work on.  From this negative print was made on American platinum paper, first the foreground, then the sky printed from negative which will suit subject.  Retouching can be done on this print with carbon pencil.  You then have a print which can be enlarged to any size, using Smith lens.  This print is on Spanish hand-made paper, hand-coated with platinum.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">W. E. MacNaughton.
+</hi>
+</signed>
+</closer>
+</div>
+<pb n="14" />
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">An Experience with a Railway Detective
+</hi></head>
+<p>
+<emph>See <ref target="station" rend="color: blue">The Railway Station</ref></emph>
+</p>
+<p>
+I wandered into the Grand Central Station in New York City with a new camera&mdash;a Speedex 2&frac14;&times;3&frac14;.  It had been given me as a present by my partner in photographic and other joys, who was tired of
+seeing me lug around an 8&times;10 view camera and plates.  I thought the light looked interesting in the big station and opened my little box.  Appeared on the scene the station detective.  <q>Not allowed to make
+photographs without a permit.</q>  <q>Where do I apply for it?</q>  <q>At the stationmaster's room.</q>  I walked half a mile and interviewed a pretty stenographer.  She said, when I showed her the tiny camera, <q>Certainly you can make snapshots with that little thing.  What we don't like is putting up a big camera on a tripod.</q>  I went back in triumph, showed my permit, and shot.  F4.8 Zeiss lens, wide open, one second
+exposure.  Enlarged on P. M. C. No. 5, to 11&times;14 with Smith lens.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Henry Hoyt Moore.
+</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">From a <q>Bathroom</q> Expert
+</hi></head>
+<p>
+<emph>See <ref target="twilight" rend="color: blue">The Hour of Twilight</ref></emph>
+</p>
+<p>
+I never at any time have had a regular dark room, practically always changing my plates and reloading holders at night in total darkness.  When developing plates or enlargements, I take possession of the bathroom, place a wide board across the tub on which are placed the necessary trays, see that the room is absolutely dark, and go ahead.  I usually tank my plates and films and use Azol for developing, sometimes Pyro.
+</p>
+<p>
+Most of my exposures are made with an Adams Minex Reflex camera, quarter plate size.  This camera cost about three hundred dollars before the war, and I have found it well worth the expenditure.  It has a Ross Zeiss Tessar lens, which I seldom use, being quite content with the work of my Smith single F 4.5 lens, which I carry in the camera all the time with a three-times light filter attached.  My only other camera, which I use a great deal, is a Newman &amp; Guardia <q>Baby Sybil</q> with Carl Zeiss Tessar F 4.5 lens, taking a picture 4.5 x 6 cm.  This does wonderful work, the negatives easily enlarging to 11&times;14 and over.  I use the Standard Orthonon plate and Premo speed film pack, always giving a full exposure.  My favorite printing processes are multiple gum and bromoil, three or four printings in the former, nearly always from enlarged paper negatives up to 11&times;14 from either camera.
+</p>
+<p>
+<q>The Hour of Twilight</q> is a triple printing in gum, and was made with the Adams Minex on a Standard Orthonon plate, using a Smith single lens.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">William Gordon Shields.
+</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Mr. White's Method with Children
+</hi></head>
+<p>
+<emph>See <ref target="sisters" rend="color: blue">Sisters</ref></emph>
+</p>
+<p>
+When I went out of town to make a photograph of these children I wasn't feeling just fit and I asked my friend to excuse me from making any negatives that day.  I took the opportunity to look around and get an impression of the place.  I noted the big rooms and the characteristics of the lighting and the faces of the children.  I found that they kept their toys in a big sort of a highboy.  So the next time I went out I photographed them there.  The lens? Oh, yes; a Taylor-Hobson single.  Exposure?  Always with a cap, indoors.  Paper?  Always platinum or palladium&mdash;sometimes with a gum coating to help out.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Clarence H. White.
+</hi>
+</signed>
+</closer>
+</div>
+
+<div>
+<head type="sub" rend="text-align: center"><hi rend="font-variant: small-caps">Dragging a View Camera Through the Sands
+</hi></head>
+<p>
+<emph>See <ref target="dunes" rend="color: blue">Sand Dunes</ref></emph>
+</p>
+<p>
+For want of a smaller one, I had the courage to drag a 6&frac12;&times;8&frac12; Eastman view camera through the sand one late afternoon in September, to make my picture of the <q>Sand Dune.</q>  I used a Struss lens stopped to F 11, a Standard Orthonon plate, an Iso three-times ray filter, and gave it as short an exposure as I could with a cap.  I use a cap because I tell myself it is less mechanical and because I do not happen to possess a shutter.
+</p>
+<p>
+I developed the plate with Activol and printed it on sepia Palladiotype to try to give it that quality of sunlight which I saw falling upon the sand, the waving dune grass, and the sea beyond.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Mildred Ruth Wilson.
+</hi>
+</signed>
+</closer>
+</div>
+
+</div>
+
+</front>
+
+<body>
+<p>
+</p>
+<pb n="15" />
+<figure url="images/singer.jpg" rend="w90">
+<index index="fig" />
+<head>THE HAMPTON SINGER<lb /><emph>By </emph><hi rend="font-variant: small-caps">Dorothy Abbott, </hi><emph>New York City</emph></head>
+<figDesc>THE HAMPTON SINGER, By Dorothy Abbott, New York City</figDesc>
+</figure>
+
+
+<pb n="16" />
+<figure url="images/archjwls.jpg" rend="w90">
+<anchor id="archjewls" />
+<index index="fig" />
+<head>THE ARCH OF JEWELS, NEW YORK CITY<lb /><emph>By </emph><hi rend="font-variant: small-caps">William A. Alcock, </hi><emph>New York City</emph></head>
+<figDesc>THE ARCH OF JEWELS, NEW YORK CITY, By William A. Alcock, New York City</figDesc>
+</figure>
+
+
+<pb n="17" />
+<figure url="images/willow.jpg" rend="w90">
+<index index="fig" />
+<head>WILLOW VALLEY<lb /><emph>By </emph><hi rend="font-variant: small-caps">Charles K. Archer, </hi><emph>Pittsburgh, Pa.</emph></head>
+<figDesc>WILLOW VALLEY, By Charles K. Archer, Pittsburgh, Pa.</figDesc>
+</figure>
+
+
+<pb n="18" />
+<figure url="images/buddha.jpg" rend="w90">
+<index index="fig" />
+<head>PRAYERS OF BUDDHA<lb /><emph>By </emph><hi rend="font-variant: small-caps">F. Bauer, </hi><emph>San Francisco, Cal.</emph></head>
+<figDesc>PRAYERS OF BUDDHA, By F. Bauer, San Francisco, Cal.</figDesc>
+</figure>
+
+
+<pb n="19" />
+<figure url="images/swans.jpg" rend="w90">
+<index index="fig" />
+<head>THE SWANS<lb /><emph>By </emph><hi rend="font-variant: small-caps">Jesse Tarbox Beals, </hi><emph>New York City</emph></head>
+<figDesc>THE SWANS, By Jesse Tarbox Beals, New York City</figDesc>
+</figure>
+
+
+<pb n="20" />
+<figure url="images/abovclou.jpg" rend="w90">
+<index index="fig" />
+<head>ABOVE THE CLOUDS<lb /><emph>By </emph><hi rend="font-variant: small-caps">Clark Blickensderfer, </hi><emph>Denver, Colo.</emph></head>
+<figDesc>ABOVE THE CLOUDS, By Clark Blickensderfer, Denver, Colo.</figDesc>
+</figure>
+
+
+<pb n="21" />
+<figure url="images/gramercy.jpg" rend="w90">
+<index index="fig" />
+<head>GRAMERCY PARK<lb /><emph>By </emph><hi rend="font-variant: small-caps">Mary F. Boyd, </hi><emph>Chambersburg, Pa.</emph></head>
+<figDesc>GRAMERCY PARK, By Mary F. Boyd, Chambersburg, Pa.</figDesc>
+</figure>
+
+
+<pb n="22" />
+<figure url="images/hilltop.jpg" rend="w90">
+<index index="fig" />
+<head>HILL TOP&mdash;WINTER<lb /><emph>By </emph><hi rend="font-variant: small-caps">George Butler, </hi><emph>Worcester, Mass.</emph></head>
+<figDesc>HILL TOP&mdash;WINTER, By George Butler, Worcester, Mass.</figDesc>
+</figure>
+
+
+<pb n="23" />
+<figure url="images/weissthu.jpg" rend="w60">
+<anchor id="weissthurm" />
+<index index="fig" />
+<head>WEISSTHURM&mdash;ROTENBURG O. TAUBER<lb /><emph>By </emph><hi rend="font-variant: small-caps">A. D. Chaffee, </hi><emph>New York City</emph></head>
+<figDesc>WEISSTHURM&mdash;ROTENBURG O. TAUBER, By A. D. Chaffee, New York City</figDesc>
+</figure>
+
+
+<pb n="24" />
+<figure url="images/cables.jpg" rend="w90">
+<anchor id="cables" />
+<index index="fig" />
+<head>CABLES<lb /><emph>By </emph><hi rend="font-variant: small-caps">Arthur D. Chapman, </hi><emph>West Hoboken, N.J.</emph></head>
+<figDesc>CABLES, By Arthur D. Chapman, West Hoboken, N.J.</figDesc>
+</figure>
+
+
+<pb n="25" />
+<figure url="images/bookplat.jpg" rend="w90">
+<index index="fig" />
+<head>BOOKPLATE<lb /><emph>By </emph><hi rend="font-variant: small-caps">Alfred Cohn, </hi><emph>Brooklyn, N.Y.</emph></head>
+<figDesc>BOOKPLATE, By Alfred Cohn, Brooklyn, N.Y.</figDesc>
+</figure>
+
+
+<pb n="26" />
+<figure url="images/bugle.jpg" rend="w90">
+<anchor id="buglecall" />
+<index index="fig" />
+<head>THE BUGLE CALL<lb /><emph>By </emph><hi rend="font-variant: small-caps">Dwight A. Davis, </hi><emph>Worcester, Mass.</emph></head>
+<figDesc>THE BUGLE CALL, By Dwight A. Davis, Worcester, Mass.</figDesc>
+</figure>
+
+
+<pb n="27" />
+<figure url="images/bridge.jpg" rend="w90">
+<index index="fig" />
+<head>THE BRIDGE<lb /><emph>By </emph><hi rend="font-variant: small-caps">John Paul Edwards, </hi><emph>Sacramento, California</emph></head>
+<figDesc>THE BRIDGE, By John Paul Edwards, Sacramento, California</figDesc>
+</figure>
+
+
+<pb n="28" />
+<figure url="images/father.jpg" rend="w90">
+<anchor id="myfather" />
+<index index="fig" />
+<head>MY FATHER<lb /><emph>By </emph><hi rend="font-variant: small-caps">Vernon E. Duroe, </hi><emph>Brooklyn, N.Y.</emph></head>
+<figDesc>MY FATHER, By Vernon E. Duroe, Brooklyn, N.Y.</figDesc>
+</figure>
+
+
+<pb n="29" />
+<figure url="images/maidmist.jpg" rend="w90">
+<anchor id="maidsomist" />
+<index index="fig" />
+<head>MAIDS O' THE MIST<lb /><emph>By </emph><hi rend="font-variant: small-caps">Mr. and Mrs. J. D. Drew, </hi><emph>Montclair, N.J.</emph></head>
+<figDesc>MAIDS O' THE MIST, By Mr. and Mrs. J. D. Drew, Montclair, N.J.</figDesc>
+</figure>
+
+
+<pb n="30" />
+<figure url="images/afttea.jpg" rend="w90">
+<index index="fig" />
+<head>AFTERNOON TEA<lb /><emph>By </emph><hi rend="font-variant: small-caps">Eleanor C. Erving, </hi><emph>Albany, N.Y.</emph></head>
+<figDesc>AFTERNOON TEA, By Eleanor C. Erving, Albany, N.Y.</figDesc>
+</figure>
+
+
+<pb n="31" />
+<figure url="images/summer.jpg" rend="w90">
+<index index="fig" />
+<head>SUMMER PORTRAIT<lb /><emph>By </emph><hi rend="font-variant: small-caps">Laura Gilpin, </hi><emph>Colorado Springs, Colo.</emph></head>
+<figDesc>SUMMER PORTRAIT, By Laura Gilpin, Colorado Springs, Colo.</figDesc>
+</figure>
+
+
+<pb n="32" />
+<figure url="images/taos.jpg" rend="w90">
+<index index="fig" />
+<head>SUNLIGHT&mdash;TAOS<lb /><emph>By </emph><hi rend="font-variant: small-caps">Forman Hanna, </hi><emph>Globe, Arizona</emph></head>
+<figDesc>SUNLIGHT&mdash;TAOS, By Forman Hanna, Globe, Arizona</figDesc>
+</figure>
+
+
+<pb n="33" />
+<figure url="images/dickstal.jpg" rend="w90">
+<index index="fig" />
+<head>DICK'S STALL<lb /><emph>By </emph><hi rend="font-variant: small-caps">G. W. Harting, </hi><emph>New York City</emph></head>
+<figDesc>DICK'S STALL, By G. W. Harting, New York City</figDesc>
+</figure>
+
+
+<pb n="34" />
+<figure url="images/bethel.jpg" rend="w90">
+<index index="fig" />
+<head>BETH-EL<lb /><emph>By </emph><hi rend="font-variant: small-caps">Edward Heim, </hi><emph>New York City</emph></head>
+<figDesc>BETH-EL, By Edward Heim, New York City</figDesc>
+</figure>
+
+
+<pb n="35" />
+<figure url="images/toilers.jpg" rend="w90">
+<index index="fig" />
+<head>THE TOILERS<lb /><emph>By </emph><hi rend="font-variant: small-caps">Eugene P. Henry, </hi><emph>Brooklyn, N.Y.</emph></head>
+<figDesc>THE TOILERS, By Eugene P. Henry, Brooklyn, N.Y.</figDesc>
+</figure>
+
+
+<pb n="36" />
+<figure url="images/archmuni.jpg" rend="w90">
+<anchor id="arches" />
+<index index="fig" />
+<head>ARCHES OF THE MUNICIPAL BUILDING<lb /><emph>By </emph><hi rend="font-variant: small-caps">Atoinette B. Hervey, </hi><emph>New York City</emph></head>
+<figDesc>ARCHES OF THE MUNICIPAL BUILDING, By Atoinette B. Hervey, New York City</figDesc>
+</figure>
+
+
+<pb n="37" />
+<figure url="images/morning.jpg" rend="w90">
+<index index="fig" />
+<head>MORNING&mdash;PLYMOUTH<lb /><emph>By </emph><hi rend="font-variant: small-caps">Lillian M. Hobart, </hi><emph>Northborough, Mass.</emph></head>
+<figDesc>MORNING&mdash;PLYMOUTH, By Lillian M. Hobart, Northborough, Mass.</figDesc>
+</figure>
+
+
+<pb n="38" />
+<figure url="images/riggers.jpg" rend="w90">
+<anchor id="squarerig" />
+<index index="fig" />
+<head>LAST OF THE SQUARE RIGGERS<lb /><emph>By </emph><hi rend="font-variant: small-caps">G. Buell and Hebe Hollister, </hi><emph>Corning, N.Y.</emph></head>
+<figDesc>LAST OF THE SQUARE RIGGERS, By G. Buell and Hebe Hollister, Corning, N.Y.</figDesc>
+</figure>
+
+
+<pb n="39" />
+<figure url="images/veterans.jpg" rend="w90">
+<index index="fig" />
+<head>WAR VETERANS<lb /><emph>By </emph><hi rend="font-variant: small-caps">Millie Hoops, </hi><emph>New York City</emph></head>
+<figDesc>WAR VETERANS, By Millie Hoops, New York City</figDesc>
+</figure>
+
+
+<pb n="40" />
+<figure url="images/stillife.jpg" rend="w90">
+<anchor id="stilllife" />
+<index index="fig" />
+<head>STILL LIFE<lb /><emph>By </emph><hi rend="font-variant: small-caps">D. S. Horne, </hi><emph>Princeton, N.J.</emph></head>
+<figDesc>STILL LIFE, By D. S. Horne, Princeton, N.J.</figDesc>
+</figure>
+
+
+<pb n="41" />
+<figure url="images/smile.jpg" rend="w90">
+<index index="fig" />
+<head>THE SUNSHINE OF JOHNNIE'S SMILE<lb /><emph>By </emph><hi rend="font-variant: small-caps">Roberta Hostetler, </hi><emph>Davenport, Iowa</emph></head>
+<figDesc>THE SUNSHINE OF JOHNNIE'S SMILE, By Roberta Hostetler, Davenport, Iowa</figDesc>
+</figure>
+
+
+<pb n="42" />
+<figure url="images/sundry.jpg" rend="w90">
+<index index="fig" />
+<head>SUN DRYING<lb /><emph>By </emph><hi rend="font-variant: small-caps">H. A. Hussey, </hi><emph>Berkeley, Cal.</emph></head>
+<figDesc>SUN DRYING, By H. A. Hussey, Berkeley, Cal.</figDesc>
+</figure>
+
+
+<pb n="43" />
+<figure url="images/portrait.jpg" rend="w90">
+<index index="fig" />
+<head>PORTRAIT<lb /><emph>By </emph><hi rend="font-variant: small-caps">Doris U. Jaeger, </hi><emph>New York City</emph></head>
+<figDesc>PORTRAIT, By Doris U. Jaeger, New York City</figDesc>
+</figure>
+
+
+<pb n="44" />
+<figure url="images/panpipes.jpg" rend="w90">
+<index index="fig" />
+<head>THE PIPES OF PAN<lb /><emph>By </emph><hi rend="font-variant: small-caps">Myers R. Jones, </hi><emph>Brooklyn, N.Y.</emph></head>
+<figDesc>THE PIPES OF PAN, By Myers R. Jones, Brooklyn, N.Y.></figDesc>
+</figure>
+
+
+<pb n="45" />
+<figure url="images/village.jpg" rend="w90">
+<anchor id="italian" />
+<index index="fig" />
+<head>IN AN ITALIAN VILLAGE<lb /><emph>By </emph><hi rend="font-variant: small-caps">H. A. Latimer, </hi><emph>Boston, Mass.</emph></head>
+<figDesc>IN AN ITALIAN VILLAGE, By H. A. Latimer, Boston, Mass.</figDesc>
+</figure>
+
+
+<pb n="46" />
+<figure url="images/crownest.jpg" rend="w90">
+<anchor id="crowsnest" />
+<index index="fig" />
+<head>CROW'S NEST RESTAURANT<lb /><emph>By </emph><hi rend="font-variant: small-caps">Sophie L. Lauffer, </hi><emph>Brooklyn, N.Y.</emph></head>
+<figDesc>CROW'S NEST RESTAURANT, By Sophie L. Lauffer, Brooklyn, N.Y.</figDesc>
+</figure>
+
+
+<pb n="47" />
+<figure url="images/quarry.jpg" rend="w90">
+<index index="fig" />
+<head>THE QUARRY<lb /><emph>By </emph><hi rend="font-variant: small-caps">GEORGE P. LESTER, </hi><emph>Bloomfield, N. J.</emph></head>
+<figDesc>THE QUARRY, By GEORGE P. LESTER, Bloomfield, N. J.</figDesc>
+</figure>
+
+
+<pb n="48" />
+<figure url="images/calbldg.jpg" rend="w90">
+<index index="fig" />
+<head>DETAIL OF CALIFORNIA BUILDING<lb /><emph>By </emph><hi rend="font-variant: small-caps">Florence Burton Livingston, </hi><emph>Mohegan Lake, N.Y.</emph></head>
+<figDesc>DETAIL OF CALIFORNIA BUILDING, By Florence Burton Livingston, Mohegan Lake, N.Y.</figDesc>
+</figure>
+
+
+<pb n="49" />
+<figure url="images/sunbeams.jpg" rend="w90">
+<index index="fig" />
+<head>SUNBEAMS<lb /><emph>By </emph><hi rend="font-variant: small-caps">Ben J. Lubschez, </hi><emph>New York City</emph></head>
+<figDesc>SUNBEAMS, By Ben J. Lubschez, New York City</figDesc>
+</figure>
+
+
+<pb n="50" />
+<figure url="images/canal.jpg" rend="w90">
+<anchor id="canal" />
+<index index="fig" />
+<head>ALONG THE CANAL<lb /><emph>By </emph><hi rend="font-variant: small-caps">William Elbert Macnaughton, </hi><emph>Brooklyn, N.Y.</emph></head>
+<figDesc>ALONG THE CANAL, By William Elbert Macnaughton, Brooklyn, N.Y.</figDesc>
+</figure>
+
+
+<pb n="51" />
+<figure url="images/spring.jpg" rend="w90">
+<index index="fig" />
+<head>SPRING<lb /><emph>By </emph><hi rend="font-variant: small-caps">Holmes I. Mettee, </hi><emph></emph>Arlington, Md.</head>
+<figDesc>SPRING, By Holmes I. Mettee, Arlington, Md.</figDesc>
+</figure>
+
+
+<pb n="52" />
+<figure url="images/sympathy.jpg" rend="w90">
+<index index="fig" />
+<head>SYMPATHY<lb /><emph>By </emph><hi rend="font-variant: small-caps">Hervey W. Minns, </hi><emph>Kenmore, Ohio</emph></head>
+<figDesc>SYMPATHY, By Hervey W. Minns, Kenmore, Ohio</figDesc>
+</figure>
+
+
+<pb n="53" />
+<figure url="images/meadow.jpg" rend="w90">
+<index index="fig" />
+<head>THE MEADOW<lb /><emph>By </emph><hi rend="font-variant: small-caps">Robert B. Montgomery, </hi><emph>Brooklyn, N.Y.</emph></head>
+<figDesc>THE MEADOW, By Robert B. Montgomery, Brooklyn, N.Y.</figDesc>
+</figure>
+
+
+<pb n="54" />
+<figure url="images/station.jpg" rend="w90">
+<anchor id="station" />
+<index index="fig" />
+<head>THE RAILWAY STATION<lb /><emph>By </emph><hi rend="font-variant: small-caps">Henry Hoyt Moore, </hi><emph>Brooklyn, N.Y.</emph></head>
+<figDesc>THE RAILWAY STATION, By Henry Hoyt Moore, Brooklyn, N.Y.</figDesc>
+</figure>
+
+
+<pb n="55" />
+<figure url="images/cultivat.jpg" rend="w90">
+<index index="fig" />
+<head>CULTIVATING<lb /><emph>By </emph><hi rend="font-variant: small-caps">L. Pokras, </hi><emph>Brooklyn, N. Y.</emph></head>
+<figDesc>Cultivating, By L. Pokras, Brooklyn, N. Y.</figDesc>
+</figure>
+
+
+<pb n="56" />
+<figure url="images/missf.jpg" rend="w90">
+<index index="fig" />
+<head>PORTRAIT&mdash;MISS F.<lb /><emph>By </emph><hi rend="font-variant: small-caps">Arthur Racicot, </hi><emph>Quantico, Va.</emph></head>
+<figDesc>PORTRAIT&mdash;MISS F., By Arthur Racicot, Quantico, Va.</figDesc>
+</figure>
+
+
+<pb n="57" />
+<figure url="images/unknown.jpg" rend="w90">
+<index index="fig" />
+<head>TO THE UNKNOWN SHORE<lb /><emph>By </emph><hi rend="font-variant: small-caps">Lawrence C. Randall, </hi><emph>Columbus, Ohio</emph></head>
+<figDesc>TO THE UNKNOWN SHORE, By Lawrence C. Randall, Columbus, Ohio</figDesc>
+</figure>
+
+
+<pb n="58" />
+<figure url="images/eastrivr.jpg" rend="w90">
+<index index="fig" />
+<head>THE EAST RIVER<lb /><emph>By </emph><hi rend="font-variant: small-caps">D. J. Ruzicka, </hi><emph>New York City</emph></head>
+<figDesc>THE EAST RIVER, By D. J. Ruzicka, New York City</figDesc>
+</figure>
+
+
+<pb n="59" />
+<figure url="images/autumn.jpg" rend="w90">
+<index index="fig" />
+<head>CLOSING OF AN AUTUMN DAY<lb /><emph>By </emph><hi rend="font-variant: small-caps">J. G. Sarvent, </hi><emph>Kansas City, Mo.</emph></head>
+<figDesc>CLOSING OF AN AUTUMN DAY, By J. G. Sarvent, Kansas City, Mo.</figDesc>
+</figure>
+
+
+<pb n="60" />
+<figure url="images/road.jpg" rend="w90">
+<index index="fig" />
+<head>THE VANISHING ROAD<lb /><emph>By </emph><hi rend="font-variant: small-caps">Otto C. Shulte, </hi><emph>San Francisco, Cal.</emph></head>
+<figDesc>THE VANISHING ROAD, By Otto C. Shulte, San Francisco, Cal.</figDesc>
+</figure>
+
+
+<pb n="61" />
+<figure url="images/twilight.jpg" rend="w90">
+<anchor id="twilight" />
+<index index="fig" />
+<head>THE HOUR OF TWILIGHT<lb /><emph>By </emph><hi rend="font-variant: small-caps">William Gordon Shields, </hi><emph>New York City</emph></head>
+<figDesc>THE HOUR OF TWILIGHT, By William Gordon Shields, New York City</figDesc>
+</figure>
+
+
+<pb n="62" />
+<figure url="images/song.jpg" rend="w90">
+<index index="fig" />
+<head>A SONG<lb /><emph>By </emph><hi rend="font-variant: small-caps">Guy Spencer, </hi><emph>New York City</emph></head>
+<figDesc>A SONG, By Guy Spencer, New York City</figDesc>
+</figure>
+
+
+<pb n="63" />
+<figure url="images/pulpit.jpg" rend="w90">
+<index index="fig" />
+<head>OPEN-AIR PULPIT, GRACE CHURCH<lb /><emph>By </emph><hi rend="font-variant: small-caps">Elizabeth G. Stoltz, </hi><emph>Marion, Ohio</emph></head>
+<figDesc>OPEN-AIR PULPIT, GRACE CHURCH, By Elizabeth G. Stoltz, Marion, Ohio</figDesc>
+</figure>
+
+
+<pb n="64" />
+<figure url="images/entreact.jpg" rend="w90">
+<index index="fig" />
+<head>L'ENTRE'ACTE<lb /><emph>By </emph><hi rend="font-variant: small-caps">Mankichi Sugimoto, </hi><emph>New York City</emph></head>
+<figDesc>L'ENTRE'ACTE, By Mankichi Sugimoto, New York City</figDesc>
+</figure>
+
+
+<pb n="65" />
+<figure url="images/farmyard.jpg" rend="w90">
+<index index="fig" />
+<head>FARMYARD<lb /><emph>By </emph><hi rend="font-variant: small-caps">George P. Swain, </hi><emph>East Orange, N.J.</emph></head>
+<figDesc>FARMYARD, By George P. Swain, East Orange, N.J.</figDesc>
+</figure>
+
+
+<pb n="66" />
+<figure url="images/carlotta.jpg" rend="w90">
+<index index="fig" />
+<head>CARLOTTA<lb /><emph>By </emph><hi rend="font-variant: small-caps">Lacy Van Wagenen, </hi><emph>Orange, N.J.</emph></head>
+<figDesc>CARLOTTA, By Lacy Van Wagenen, Orange, N.J.</figDesc>
+</figure>
+
+
+<pb n="67" />
+<figure url="images/pickford.jpg" rend="w90">
+<index index="fig" />
+<head>MRS. PICKFORD<lb /><emph>By </emph><hi rend="font-variant: small-caps">Mabel Watson, </hi><emph>Pasadena, California</emph></head>
+<figDesc>MRS. PICKFORD, By Mabel Watson, Pasadena, California</figDesc>
+</figure>
+
+
+<pb n="68" />
+<figure url="images/woodstok.jpg" rend="w90">
+<index index="fig" />
+<head>THE LITTLE ART SHOP&mdash;WOODSTOCK<lb /><emph>By </emph><hi rend="font-variant: small-caps">Anthony J. Weis, </hi><emph>New York City</emph></head>
+<figDesc>THE LITTLE ART SHOP&mdash;WOODSTOCK, By Anthony J. Weis, New York City</figDesc>
+</figure>
+
+
+<pb n="69" />
+<figure url="images/dance.jpg" rend="w90">
+<index index="fig" />
+<head>THE DANCE<lb /><emph>By </emph><hi rend="font-variant: small-caps">Delight Weston, </hi><emph>Blue Hill, Maine</emph></head>
+<figDesc>THE DANCE, By Delight Weston, Blue Hill, Maine</figDesc>
+</figure>
+
+
+<pb n="70" />
+<figure url="images/sisters.jpg" rend="w90">
+<anchor id="sisters" />
+<index index="fig" />
+<head>SISTERS<lb /><emph>By </emph><hi rend="font-variant: small-caps">Clarence H. White, </hi><emph>New York City</emph></head>
+<figDesc>SISTERS, By Clarence H. White, New York City</figDesc>
+</figure>
+
+
+<pb n="71" />
+<figure url="images/sanddune.jpg" rend="w90">
+<anchor id="dunes" />
+<index index="fig" />
+<head>SAND DUNE<lb /><emph>By </emph><hi rend="font-variant: small-caps">Mildred Ruth Wilson, </hi><emph>Flushing, Long Island</emph></head>
+<figDesc>SAND DUNE, By Mildred Ruth Wilson, Flushing, Long Island</figDesc>
+</figure>
+
+</body>
+
+<back rend="page-break-before: right">
+<pb n="73" />
+<div>
+<head><emph>The</emph> PICTORIAL PHOTOGRAPHERS <emph>of</emph> AMERICA</head>
+<p>
+The objects of the Pictorial Photographers of America are to stimulate and encourage those engaged and interested in the Art of Photography; to enlist the aid of museums and public libraries in adding photographic prints to their departments; to stimulate public taste through exhibitions, lectures, and publications; to invite exhibits of foreign work; and generally to promote education in this Art so as to raise the standards of Photography in the United States of America.
+</p>
+<p>
+Meetings of the Association are held in New York City on the first Monday of each month.  During the winter of 1919-1920 the following lecturers addressed the Association at these meetings: Mr. Robert J. Cole, Art Reviewer, New York Evening Sun, on <q>Man and the Camera;</q> Mr. H. J. Potter, of the Eastman Kodak Company, on <q>Both Ways from F-8;</q> Mr. Albert Sterner, on <q>Before the Click of the Shutter;</q> Mr. Pirie MacDonald and Mr. E. B. Core, on <q>The Pictorial Side of Professional Photography;</q> and Mr. Walter G. Wolfe, on <q>The Use of the Soft Focus Lens.</q> Mr. Allen Eaton, Field Secretary of the American Federation of Arts; Mr. William M. Ivins, Curator of Prints, Metropolitan Museum of Art; Dr. Frank Weitenkampf, of the New York Public Library; Prof. Charles H. Farnsworth, of Columbia University, and Walter L. Hervey, Ph.D., also made addresses.
+</p>
+<p>
+Another feature of the meetings which added to their interest and usefulness was a monthly print competition.  Prints were submitted by members from all parts of the United States, judged by a committee in advance of the meeting, and a selection of ten prints presented to the members for their consideration.  From these they chose each month the two best prints.
+</p>
+<p>
+The Pictorial Photographers of America this year for the first time arranged an exhibition of prints in Europe.  Acting on the invitation of the Copenhagen Photographic Amateur Club to cooperate in celebrating its Twenty-fifth Anniversary, about 350 prints from leading pictorialists all over this country were assembled and forwarded in July to Copenhagen.
+</p>
+<p>
+At home, in cooperation with the American Federation of Arts, the Pictorial Photographers of America exhibited at the following museums the hundred prints which are reproduced in <q>Pictorial Photography in America for 1920.</q>  The John Herron Art Institute of Indianapolis, The Jackson Art Association of Michigan, The Boston Society of Arts and Crafts, The Mechanics Institute of Rochester, The Arnot Art Gallery of Elmira; and during May, at the University of Virginia.
+</p>
+<p>
+During the past season the Association has cooperated with other organizations of a similar nature in planning for and establishing an Art Center in New York City.  The plans for this have been successfully worked out, funds are already in hand for its accomplishment and buildings purchased for occupancy.  This will provide a home for our Association, a splendid gallery for exhibitions, and thus make certain of immediate accomplishment plans for our future which have seemed impracticable up to the present time.
+</p>
+<p>
+In publishing <q>Pictorial Photography in America for 1921</q> the Association has invited the cooperation of pictorialists whether or not members of the organization. We hope that it will interest in our work men and women, whether photographers or not, who are interested in the development of the Art of Photography. The Secretary will gladly give more detailed information about the work of the Association and its plans for the coming year to any who are interested.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">JERRY D. DREW, </hi><emph>Secretary.</emph>
+</signed>
+<dateline>
+National Arts Club, 119 East 19th Street, New York City.
+</dateline>
+</closer>
+
+<pb n="74" />
+<figure url="images/adsmith.jpg" rend="w90">
+<index index="fig" />
+<figDesc>Advertisement: Pinkham and Smith Company</figDesc>
+</figure>
+
+<pb n="75" />
+<figure url="images/adeast.jpg" rend="w90">
+<index index="fig" />
+<figDesc>Advertisement: Eastman Kodak Company</figDesc>
+</figure>
+
+<pb n="76" />
+<figure url="images/adansco.jpg" rend="w90">
+<index index="fig" />
+<figDesc>Advertisement: Ansco Company</figDesc>
+</figure>
+
+<pb n="77" />
+<figure url="images/adica.jpg" rend="w90">
+<index index="fig" />
+<figDesc>Advertisement: Ica-Contessa</figDesc>
+</figure>
+
+
+<pb n="78" />
+<figure url="images/adkaloge.jpg" rend="w90">
+<index index="fig" />
+<figDesc>Advertisements: Kalogen; Willis and Clements</figDesc>
+</figure>
+
+<pb n="79" />
+<figure url="images/adjapan.jpg" rend="w90">
+<index index="fig" />
+<figDesc>Advertisements: Japan Paper Company; George Murphy, Inc.</figDesc>
+</figure>
+
+<pb n="80" />
+<figure url="images/adstruss.jpg" rend="w90">
+<index index="fig" />
+<figDesc>Advertisements: Fred'k W. Keasbey, Abe Cohen's Exchange</figDesc>
+</figure>
+
+<pb n="81" />
+<figure url="images/adwollen.jpg" rend="w90">
+<index index="fig" />
+<figDesc>Advertisements: Wollensack Optical Company; Willoughby's</figDesc>
+</figure>
+
+</div>
+
+<div rend="page-break-before: right">
+<divGen type="pgfooter" />
+</div>
+</back>
+
+</text>
+</TEI.2>

@@ -1,0 +1,47 @@
+_repo: Pictorial-Photography-in-America-1921_28023
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: White, Clarence H. (Clarence Hudson)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '35403'
+    url: http://www.gutenberg.org/2009/agents/35403
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Hudson_White
+  - agent_name: Dow, Arthur W. (Arthur Wesley)
+    aliases:
+    - Dow, A. W. (Arthur Wesley)
+    - Dow, Arthur Wesley
+    birthdate: 1857
+    deathdate: 1922
+    gutenberg_agent_id: '35402'
+    url: http://www.gutenberg.org/2009/agents/35402
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wesley_Dow
+  - agent_name: Moore, Henry Hoyt
+    gutenberg_agent_id: '35400'
+    url: http://www.gutenberg.org/2009/agents/35400
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pictorial Photographers of America
+    alias: America, Pictorial Photographers of
+    gutenberg_agent_id: '33078'
+    url: http://www.gutenberg.org/2009/agents/33078
+description: ''
+gutenberg_bookshelf: Photography
+gutenberg_issued: '2009-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28023'
+language: en
+publication_note: 'New York :  National Arts Club;  Pictorial Photographers of America,  1921'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TR'
+- !lcsh 'Photography, Artistic -- Periodicals'
+title: Pictorial Photography in America 1921
+url: http://www.gutenberg.org/ebooks/28023
